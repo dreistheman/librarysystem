@@ -1,0 +1,66 @@
+d:\my documents\visual studio 2010\Projects\LibraryUI\LibraryUI\bin\Debug\LibraryUI.exe
+d:\my documents\visual studio 2010\Projects\LibraryUI\LibraryUI\bin\Debug\LibraryUI.pdb
+d:\my documents\visual studio 2010\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.Form1.resources
+d:\my documents\visual studio 2010\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.csproj.GenerateResource.Cache
+d:\my documents\visual studio 2010\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.exe
+d:\my documents\visual studio 2010\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.pdb
+d:\my documents\visual studio 2010\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.BookForm.resources
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.exe
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\bin\Debug\LibraryUI.exe
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\bin\Debug\LibraryUI.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.Form1.resources
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.BookForm.resources
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.Properties.Resources.resources
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.csproj.GenerateResource.Cache
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\LibraryUI\LibraryUI\bin\Debug\LibraryUI.exe.config
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\bin\Debug\LibraryUI.exe.config
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.exe
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.pdb
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.Form1.resources
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.BookForm.resources
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\bin\Debug\LibraryUI.exe
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\bin\Debug\LibraryUI.pdb
+C:\Users\Lenovo\Desktop\Library\LibraryUI\LibraryUI\bin\Debug\LibraryUI.exe.config
+C:\Users\Lenovo\Desktop\Library\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.exe
+C:\Users\Lenovo\Desktop\Library\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.pdb
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.LoginForm.resources
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.StaffForm.resources
+C:\Users\Lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.staffBookForm.resources
+C:\Users\lenovo\Desktop\LibraryUI\LibraryUI\obj\x86\Debug\LibraryUI.RegisterForm.resources
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\bin\Debug\LibraryUI.exe.config
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.exe
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.pdb
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.Form1.resources
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.BookForm.resources
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.LoginForm.resources
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.Properties.Resources.resources
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.RegisterForm.resources
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.staffBookForm.resources
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.StaffForm.resources
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\obj\x86\Debug\LibraryUI.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\bin\Debug\LibraryUI.exe
+C:\Users\lenovo\Desktop\LibraryUIBawaschup\LibraryUI\bin\Debug\LibraryUI.pdb
+C:\Users\lenovo\Desktop\backup\LibraryUI\bin\Debug\LibraryUI.exe.config
+C:\Users\lenovo\Desktop\backup\LibraryUI\obj\x86\Debug\LibraryUI.exe
+C:\Users\lenovo\Desktop\backup\LibraryUI\obj\x86\Debug\LibraryUI.pdb
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\bin\Debug\LibraryUI.exe.config
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.exe
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.pdb
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\bin\Debug\LibraryUI.exe
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\bin\Debug\LibraryUI.pdb
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.Form1.resources
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.BookForm.resources
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.LoginForm.resources
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.Properties.Resources.resources
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.RegisterForm.resources
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.staffBookForm.resources
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.StaffForm.resources
+C:\Users\Andre\Documents\Developer files\Visual Studio 2015\Projects\Library System\backup\LibraryUI\obj\x86\Debug\LibraryUI.csproj.GenerateResource.Cache
